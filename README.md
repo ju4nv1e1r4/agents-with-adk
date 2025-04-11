@@ -7,6 +7,8 @@ O **Development Tutor Agent** é um assistente virtual baseado em inteligência 
 
 O Agent Development Kit (ADK) é uma estrutura flexível e modular para o desenvolvimento e a implantação de agentes de IA. O ADK pode ser usado com LLMs populares e ferramentas de IA generativa de código aberto e foi projetado com foco na integração com o ecossistema do Google e os modelos Gemini. O ADK facilita o início do uso de agentes simples, impulsionados pelos modelos Gemini e pelas ferramentas de IA do Google, ao mesmo tempo que fornece o controle e a estrutura necessários para arquiteturas e orquestrações de agentes mais complexas.
 
+Para saber mais: https://google.github.io/adk-docs/
+
 ## Funcionalidades
 
 - **Researcher**: Realiza pesquisas em tempo real na web sobre temas relacionados ao desenvolvimento e programação, garantindo que as respostas sejam sempre baseadas nas informações mais recentes.
