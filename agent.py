@@ -13,5 +13,11 @@ def root_agent(url, prompt):
         model=constants.TUTOR_MODEL,
         name=constants.AGENT_NAME,
         description=constants.DESCRIPTION,
-        
+        instruction=prompts.ROOT_PROMPT,
+        sub_agents=[
+            subagents.bring_solution(),
+            subagents.read_docs(),
+        ]
     )
+
+    return tutor_agent
