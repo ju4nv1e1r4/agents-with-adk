@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 # others
-development_tutor/evalset39459a.evalset.json
+*evalset.json
